@@ -11,4 +11,6 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-a0c3e3?style=for-the-badge&logo=mysql&logoColor=black) 
 ![Firebase](https://img.shields.io/badge/Firebase-FF8A65?style=for-the-badge&logo=Firebase&logoColor=white)
+![React.js](https://img.shields.io/badge/react.js-a0c3e3?style=for-the-badge&logo=react.js&logoColor=black) 
+
 
