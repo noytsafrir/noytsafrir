@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Noy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">𝙎𝙩𝙪𝙙𝙚𝙣𝙩 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙖𝙩 𝘼𝙛𝙚𝙠𝙖 𝘾𝙤𝙡𝙡𝙚𝙜𝙚</h2>
+<h2 align="center">B.Sc in Software Engineering.</h2>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -11,6 +11,6 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-a0c3e3?style=for-the-badge&logo=mysql&logoColor=black) 
 ![Firebase](https://img.shields.io/badge/Firebase-abe37e?style=for-the-badge&logo=Firebase&logoColor=black)
-![React.js](https://img.shields.io/badge/react.js-b6a8eb?style=for-the-badge&logo=react.js&logoColor=black) 
+![React.js](https://img.shields.io/badge/react.js-b6a8eb?style=for-the-badge&logo=react&logoColor=black) 
 
 
